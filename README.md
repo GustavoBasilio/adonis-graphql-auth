@@ -11,6 +11,14 @@ This is an authentication API using:
 Run `npm install`  and  `npm install -g @adonis/cli`
 
 
+### Database
+
+To run a local mysql database using docker run
+
+```
+docker-compose up -d
+```
+
 ### Migrations
 
 Run the following command to run startup migrations.
